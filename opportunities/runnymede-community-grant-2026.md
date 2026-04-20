@@ -4,17 +4,17 @@ name: Runnymede Community Grant Scheme
 type: opportunity
 funder: Runnymede Borough Council
 funder_type: local_authority
-state: apply_now
-state_rationale: Local authority scheme for community groups in Runnymede. Englefield Green is in Runnymede borough. Council schemes are typically more flexible on charity registration than trusts. Eligibility for constituted groups without charity number needs verbal confirmation but is likely.
-last_updated: 2026-04-18
-last_verified_date: 2026-04-18
+state: monitor
+state_rationale: Current 2025-26 round closed; final decisions made by Community Services Committee on 11 March 2026. Grant Aid Policy runs to March 2027 — next round expected later in 2026. Monitor for reopening.
+last_updated: 2026-04-20
+last_verified_date: 2026-04-20
 provenance: https://www.runnymede.gov.uk/community-facilities/Grant-funding/5
 
 amount_min: null
 amount_max: 5000
 deadline: unknown
 funding_cycle: annual
-funding_cycle_notes: Programme runs to March 2027. Current round deadline unknown — check website.
+funding_cycle_notes: Programme runs to March 2027 under Grant Aid Policy 2025-27. Spring 2026 round closed; decisions made March 11, 2026. Next round expected autumn 2026 — check website.
 
 geography: Runnymede Borough
 charity_registration_required: unclear
@@ -27,8 +27,8 @@ gate_geography: pass
 gate_beneficiary: pass
 gate_programme: pass
 gate_funding_size: pass
-gate_open_status: unknown
-gate_deadline_realism: unclear
+gate_open_status: closed
+gate_deadline_realism: upcoming
 gate_evidence: pass
 
 score_mission_fit: 4
@@ -49,11 +49,11 @@ linked_programmes:
   - instruments and cost-reduction support
   - Year 4 school brass teaching
 
-next_action: Call Runnymede Borough Council grants team to confirm (a) current round deadline and (b) whether pending charity status is acceptable. Phone number on grants page.
-next_action_due: 2026-04-25
-blocker: Current round deadline unknown; charity registration eligibility unconfirmed
-unblock_condition: Confirm current round is open and pending charity status accepted
-review_date: 2026-04-25
+next_action: Monitor runnymede.gov.uk/community-facilities/Grant-funding/5 for next round opening (expected autumn 2026). When next round opens, call council to confirm charity registration eligibility and apply promptly.
+next_action_due: 2026-09-01
+blocker: ""
+unblock_condition: ""
+review_date: 2026-09-01
 ---
 
 ## Notes
@@ -69,3 +69,4 @@ Up to £5,000 grants for local community groups. Source: [Runnymede grant fundin
 ## State history
 
 2026-04-18: set to apply_now (provisional) — strong local fit, gates mostly pass. Phone call needed to confirm eligibility and deadline.
+2026-04-20: changed to monitor — scan confirmed current round closed; final decisions made by Community Services Committee 11 March 2026. Next round expected autumn 2026 under the Grant Aid Policy 2025-27.
