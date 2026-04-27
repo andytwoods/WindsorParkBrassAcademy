@@ -51,6 +51,12 @@ Every opportunity must have exactly one of these states:
 
 `/scan` — weekly funding scan. Searches for new opportunities, checks known funder sources, updates stale records, regenerates README.md, commits results. Run this to do the core funding discovery work.
 
+When regenerating README.md, always include this line near the top (after the h1 title):
+
+```
+**Site:** [andytwoods.github.io/WindsorForestBrassAcademy](https://andytwoods.github.io/WindsorForestBrassAcademy/)  
+```
+
 ## Current organisational status
 
 - Charity registration: **pending** (no charity number yet)
