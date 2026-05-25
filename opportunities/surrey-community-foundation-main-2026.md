@@ -5,9 +5,9 @@ type: opportunity
 funder: Community Foundation for Surrey
 funder_type: charitable_trust
 state: monitor
-state_rationale: EOI opens 25 May 2026 (deadline 2 July; full apps 1 Sept). CFS routes single EOI to all relevant sub-funds — Surrey Community Music Fund ("music projects enabling young people without opportunity") and Surrey Community Arts Fund are both confirmed strong thematic fits. Submit EOI framing brass education access for young people.
-last_updated: 2026-05-11
-last_verified_date: 2026-05-11
+state_rationale: EOI window OPENED 25 May 2026 (today). Deadline 2 July 2026 at 5pm; full apps 1 Sept 2026. CFS routes single EOI to all relevant sub-funds — Surrey Community Music Fund ("music projects enabling young people without opportunity") and Surrey Community Arts Fund are both confirmed strong thematic fits. Submit EOI framing brass education access for young people NOW.
+last_updated: 2026-05-25
+last_verified_date: 2026-05-25
 provenance: https://www.cfsurrey.org.uk/apply
 
 amount_min: null
@@ -27,7 +27,7 @@ gate_geography: pass
 gate_beneficiary: pass
 gate_programme: unclear
 gate_funding_size: unclear
-gate_open_status: upcoming
+gate_open_status: open
 gate_deadline_realism: pass
 gate_evidence: pass
 
@@ -49,11 +49,11 @@ linked_programmes:
   - starter band
   - community music participation
 
-next_action: When EOI window opens 25 May 2026, submit a short EOI using community wellbeing framing. Confirm charity registration requirement on application portal before submitting.
+next_action: EOI window is OPEN NOW (opened 25 May 2026). Submit EOI today or this week using Surrey Community Music Fund framing — "brass education for young people who would not otherwise have the opportunity to participate." Confirm charity registration requirement on portal before submitting.
 next_action_due: 2026-05-25
 blocker: ""
 unblock_condition: ""
-review_date: 2026-05-20
+review_date: 2026-07-02
 ---
 
 ## Notes
@@ -74,3 +74,4 @@ EOI reopens 25 May 2026. Source: [cfsurrey.org.uk/apply](https://www.cfsurrey.or
 2026-04-27: notes updated — confirmed CFS matches EOIs against all relevant sub-funds including Surrey Community Music Fund and Surrey Community Arts Fund, both strong thematic fits; state unchanged.
 2026-05-04: confirmed EOI deadline is 2 July 2026, full application deadline 1 September 2026; Surrey Community Music Fund confirmed as explicitly funding music projects for young people without opportunity — strong thematic match; notes updated accordingly.
 2026-05-11: re-confirmed via cfsurrey.org.uk — EOI opens 25 May 2026 at 9am, EOI deadline 2 July 2026, full application 1 September 2026, decision notification week of 14 December 2026. Dates unchanged.
+2026-05-25: EOI window confirmed open today (cfsurrey.org.uk/apply). gate_open_status updated from upcoming to open. Action: submit EOI now. Note: the "Creative Wellbeing Programme" (music, arts, culture for health and wellbeing) also opens 25 May via CFS — routed through same EOI process.

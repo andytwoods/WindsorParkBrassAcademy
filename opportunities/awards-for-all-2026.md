@@ -6,8 +6,8 @@ funder: National Lottery Community Fund
 funder_type: lottery
 state: apply_now
 state_rationale: Rolling fund, no registered charity required — constituted org with dual-signatory bank account is sufficient. Meets all Stage 1 gates.
-last_updated: 2026-05-11
-last_verified_date: 2026-05-11
+last_updated: 2026-05-25
+last_verified_date: 2026-05-25
 provenance: https://www.tnlcommunityfund.org.uk/funding/funding-programmes/national-lottery-awards-for-all-england/
 
 amount_min: 300
@@ -74,3 +74,4 @@ Confirmed no charity registration required. Source: [Who can apply page](https:/
 
 2026-04-18: set to apply_now — first scan, all gates pass, no registration barrier.
 2026-05-11: last_verified_date updated; confirmed still open and rolling. Internal draft target of 2026-05-09 missed; new internal target set to 2026-05-20. Annual accounts not required for organisations less than 15 months old (confirmed via TNLCF who-can-apply page).
+2026-05-25: confirmed still open and rolling via tnlcommunityfund.org.uk. Programme now explicitly highlights cost-of-living context as a priority framing. Draft application internal target of 2026-05-20 missed — now 5 days overdue. Draft urgently required.
