@@ -4,9 +4,9 @@ name: Garfield Weston Foundation
 type: opportunity
 funder: Garfield Weston Foundation
 funder_type: charitable_trust
-state: apply_when_registered
-state_rationale: Rolling fund, registered charity required. Wide remit includes arts, education, youth, and community. £1k–£100k range accessible. Apply once charity number confirmed.
-last_updated: 2026-04-18
+state: apply_now
+state_rationale: Rolling fund, registered charity required — now satisfied (CIO 1218214, confirmed 2026-07-04). Wide remit includes arts, education, youth, and community. £1k–£100k range accessible. All gates pass; prepare and submit a first proposal.
+last_updated: 2026-07-04
 last_verified_date: 2026-04-18
 provenance: https://garfieldweston.org/what-we-fund/
 
@@ -21,7 +21,7 @@ legal_form_required: Registered charity
 eligibility_summary: Registered charities across UK. Funds arts, education, youth, community, welfare, environment, health, heritage, faith. Grants from £1,000 to millions. Regular Grants up to £100,000 submitted via 10-page proposal and cover letter through online portal.
 
 gate_legal_form: pass
-gate_charity_registration: fail
+gate_charity_registration: pass
 gate_geography: pass
 gate_beneficiary: pass
 gate_programme: pass
@@ -48,10 +48,10 @@ linked_programmes:
   - outreach workshops
   - instruments and cost-reduction support
 
-next_action: Register with Garfield Weston Foundation portal once charity number received. Prepare a proposal focused on Year 4 school programme or outreach workshops.
-next_action_due: null
-blocker: Charity registration pending
-unblock_condition: Charity number received
+next_action: Register on the Garfield Weston online portal (charity no. 1218214) and prepare a first Regular Grant proposal of £5k–£15k focused on the Year 4 school programme or outreach workshops (10-page proposal + cover letter). Rolling — no deadline.
+next_action_due: 2026-08-01
+blocker: ""
+unblock_condition: ""
 review_date: null
 ---
 
@@ -68,3 +68,4 @@ Registered charities eligible. Rolling programme. Source: [garfieldweston.org/wh
 ## State history
 
 2026-04-18: set to apply_when_registered — charity number required.
+2026-07-04: charity registration confirmed (CIO 1218214). Charity gate now passes → moved to apply_now. First application should be modest (£5k–£15k) to establish the relationship.

@@ -1,22 +1,22 @@
 ---
 name: Windsor Forest Brass Academy
 type: organisation
-last_updated: 2026-04-18
-last_verified_date: 2026-04-18       # date public website was last checked
+last_updated: 2026-07-04
+last_verified_date: 2026-07-04       # registration verified against Companies House CE043760, 2026-07-04
 
 # Legal and registration
-legal_form: ""                       # UNCONFIRMED — complete in ASSUMPTIONS.md
-charity_registered: false            # pending; application submitted, number not yet received
-charity_number: ""                   # pending
-registration_date: null              # pending
-company_number: ""                   # unknown — confirm
+legal_form: "Charitable Incorporated Organisation (CIO)"   # confirmed — Companies House CE043760, 2026-07-04
+charity_registered: true             # CONFIRMED — registered charity 1218214
+charity_number: "1218214"            # confirmed — Companies House / Charity Commission
+registration_date: null              # confirmed registered (user, 2026-07-04); exact date to confirm from Charity Commission entry
+company_number: "CE043760"           # CIO reference at Companies House (CIOs use a CE-prefixed number; no separate limited-company number)
 
 # Finance
 annual_income_band: ""               # UNCONFIRMED — complete in ASSUMPTIONS.md
 unrestricted_reserves: ""            # UNCONFIRMED
-bank_account_open: null              # UNCONFIRMED
-gift_aid_eligible: null              # pending charity registration
-financial_year_end: ""               # UNCONFIRMED
+bank_account_open: true              # confirmed — bank account open, dual signatories (2026-05-09; reconfirmed 2026-07-04)
+gift_aid_eligible: true              # now eligible as a registered charity; HMRC Gift Aid registration is a separate step still to complete
+financial_year_end: ""               # UNCONFIRMED — set from CIO governing document
 
 # Governance
 trustee_count: null                  # UNCONFIRMED
@@ -88,3 +88,13 @@ Trustee skills matrix not yet available. Complete when information is confirmed.
 ## Known funding history
 
 None documented. Update when available.
+
+## Registration milestone
+
+**2026-07-04 — Charity registration confirmed.** WFBA is now a registered Charitable Incorporated Organisation (CIO), charity number **1218214**, Companies House reference **CE043760** (verified against Companies House, 2026-07-04). A bank account is open with dual signatories. This unblocks all opportunities previously held at `apply_when_registered` and narrows the blockers on several `parked` opportunities.
+
+Outstanding follow-ups:
+- Confirm exact registration date from the Charity Commission register entry.
+- Register the CIO as an organisation with Arts Council England (needed for ACE Project Grants) — takes time; start immediately.
+- Register with HMRC for Gift Aid (separate from Charity Commission registration).
+- As a CIO, WFBA has no audited-accounts history yet; funders requiring 1–2 years of filed accounts remain out of reach until the first accounting period closes.

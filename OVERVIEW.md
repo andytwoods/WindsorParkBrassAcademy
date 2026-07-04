@@ -2,9 +2,9 @@
 
 ---
 written: unknown
-last_reviewed: 2026-04-18
+last_reviewed: 2026-07-04
 status: active
-charity_registration_status: PENDING — last checked: unknown. Verify immediately and update ASSUMPTIONS.md.
+charity_registration_status: REGISTERED — CIO, charity no. 1218214 (Companies House CE043760). Confirmed 2026-07-04.
 ---
 
 ## Purpose
@@ -29,7 +29,7 @@ This is not just a grant-finder. It is a funding pipeline operating system cover
 **Short name:** WFBA  
 **Website:** https://www.wfba.org.uk/  
 **Primary contact email:** hello@wfba.org.uk  
-**Current status:** nonprofit organisation with charity status application submitted; outcome expected in the coming weeks [pending — date of submission unknown; update ASSUMPTIONS.md immediately]
+**Current status:** registered Charitable Incorporated Organisation (CIO), charity number **1218214** (Companies House CE043760); registration confirmed 2026-07-04. Bank account open with dual signatories. [confirmed — Companies House]
 
 WFBA describes itself as a brass education and performance non-profit organisation. Its stated aim is to provide people with the opportunity to learn a brass instrument and develop as musicians. The organisation supports members of all ages and abilities, from complete beginners to experienced returners and long-term players.
 

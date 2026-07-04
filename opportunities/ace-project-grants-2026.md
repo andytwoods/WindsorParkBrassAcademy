@@ -4,9 +4,9 @@ name: Arts Council England — National Lottery Project Grants
 type: opportunity
 funder: Arts Council England
 funder_type: arts_council
-state: apply_when_registered
-state_rationale: Rolling fund £1k–£100k. Requires ACE organisational registration, which requires charity number. Register with ACE immediately on receiving charity number.
-last_updated: 2026-04-18
+state: apply_now
+state_rationale: Rolling fund £1k–£100k. All gates now pass — charity registration confirmed 2026-07-04 (CIO 1218214). Requires ACE organisational registration (a separate step that takes time); begin ACE registration immediately, then apply.
+last_updated: 2026-07-04
 last_verified_date: 2026-04-18
 provenance: https://www.artscouncil.org.uk/ProjectGrants
 
@@ -22,7 +22,7 @@ legal_form_required: Must register as an organisation with Arts Council England 
 eligibility_summary: Open access programme for arts and cultural projects. Individuals and organisations can apply. Organisations must be registered with ACE. Grants £1,000–£100,000. Supporting Grassroots Music is a separate stream.
 
 gate_legal_form: pass
-gate_charity_registration: fail
+gate_charity_registration: pass
 gate_geography: pass
 gate_beneficiary: pass
 gate_programme: pass
@@ -49,10 +49,10 @@ linked_programmes:
   - outreach workshops
   - starter band
 
-next_action: Register with ACE immediately on receiving charity number. Do not wait — registration takes time and the rolling programme means you can apply any time once registered.
-next_action_due: null
-blocker: Charity registration pending; ACE organisational registration requires charity number
-unblock_condition: Charity number received → register with ACE → apply
+next_action: Register the CIO as an organisation with ACE now at artscouncil.org.uk/apply-for-funding/register (separate step, takes time). Then draft a £10k–£25k Project Grant for the Year 4 school programme (widening participation framing). Rolling programme — no fixed deadline.
+next_action_due: 2026-07-18
+blocker: ""
+unblock_condition: ""
 review_date: null
 ---
 
@@ -71,3 +71,4 @@ Rolling open access programme. Source: [artscouncil.org.uk/ProjectGrants](https:
 ## State history
 
 2026-04-18: set to apply_when_registered — all gates pass except charity registration. Sweeping this opportunity is a priority action when number arrives.
+2026-07-04: charity registration confirmed (CIO 1218214). Charity gate now passes → moved to apply_now. Next action: begin ACE organisational registration immediately (a distinct, time-consuming step before any application can be submitted).

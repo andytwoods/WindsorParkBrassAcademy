@@ -5,8 +5,8 @@ type: opportunity
 funder: BBC Children in Need
 funder_type: charitable_trust
 state: parked
-state_rationale: Grants over £15k require registered charity. Sub-£15k requires "registered not-for-profit organisation" — meaning and threshold unclear for pending charity applicants. Must also show majority of beneficiaries are experiencing disadvantage. Eligibility needs verification before applying.
-last_updated: 2026-05-09
+state_rationale: Charity registration now confirmed (CIO 1218214, 2026-07-04) — the legal-form/registration gate is cleared, including for grants over £15k. One blocker remains: must show the majority of beneficiaries are experiencing disadvantage, which WFBA cannot yet evidence (target school FSM/Pupil Premium data not assembled). Do not apply until that evidence exists.
+last_updated: 2026-07-04
 last_verified_date: 2026-05-09
 provenance: https://www.bbcchildreninneed.co.uk/grants/
 
@@ -22,7 +22,7 @@ legal_form_required: Registered charity required for >£15k. "Registered not-for
 eligibility_summary: Not-for-profit organisations working with disadvantaged children and young people under 18. Must show majority of beneficiaries are experiencing disadvantage. Strong safeguarding policy and public liability insurance required. Pre-application advice session mandatory. Turnover cap £2m.
 
 gate_legal_form: pass
-gate_charity_registration: fail
+gate_charity_registration: pass
 gate_geography: pass
 gate_beneficiary: unclear
 gate_programme: unclear
@@ -48,11 +48,11 @@ linked_programmes:
   - outreach workshops
   - Year 4 school brass teaching
 
-next_action: Resolve two blockers: (1) confirm whether pending charity status satisfies "registered not-for-profit" for sub-£15k grants; (2) confirm whether target school(s) have above-average FSM/Pupil Premium to evidence disadvantage requirement.
-next_action_due: 2026-06-01
-blocker: (1) Charity/registration status eligibility unclear for sub-£15k band; (2) evidence of disadvantage in target beneficiary group not yet assembled
-unblock_condition: Charity number confirmed AND school FSM/Pupil Premium data assembled
-review_date: 2026-06-01
+next_action: Assemble disadvantage evidence for the target beneficiary group — confirm the Year 4 partner school's FSM/Pupil Premium levels against national average. Only then book the mandatory pre-application advice session. Charity registration (blocker 1) is now resolved.
+next_action_due: 2026-09-01
+blocker: Evidence of disadvantage in target beneficiary group not yet assembled (school FSM/Pupil Premium data). Charity-registration blocker resolved 2026-07-04.
+unblock_condition: Target-school FSM/Pupil Premium data assembled showing majority-disadvantage beneficiary case
+review_date: 2026-09-01
 ---
 
 ## Notes
@@ -70,3 +70,4 @@ Registered charity required for >£15k. "Registered not-for-profit" for smaller 
 ## State history
 
 2026-04-18: set to parked — two specific blockers defined; review date set for June 2026.
+2026-07-04: charity registration confirmed (CIO 1218214). Charity/registration blocker resolved and charity gate now passes (grants over £15k now open too). Remains parked on the single remaining blocker — disadvantage evidence. Review date moved to 2026-09-01 to align with Year 4 school confirmation.

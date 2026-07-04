@@ -48,8 +48,8 @@ linked_programmes:
   - starter band
   - instruments and cost-reduction support
 
-next_action: Draft application. Choose one programme strand as the focus — outreach workshops is the strongest fit. Confirm bank account has dual signatories.
-next_action_due: 2026-05-09
+next_action: Draft application. Choose one programme strand. Options confirmed eligible: instrument loan fund for beginners/outreach (qualifies as equipment), outreach workshops run outside school hours, starter band setup. Cannot fund anything happening during the school day. Bank account and constitution both confirmed.
+next_action_due: 2026-05-16
 blocker: ""
 unblock_condition: ""
 review_date: null
@@ -57,18 +57,23 @@ review_date: null
 
 ## Notes
 
-The single most accessible fund on the current list. WFBA can apply now without a charity number. Key requirements to confirm before applying:
-- Bank account exists and requires two signatories (update ASSUMPTIONS.md)
-- Organisation is constituted (i.e. has a constitution or governing document)
-- Project starts at least 16 weeks after application submission
+The single most accessible fund on the current list. WFBA can apply now without a charity number. Prerequisites confirmed (2026-05-09): bank account open with dual signatories; organisation is constituted.
 
-Strong framing angles: community music participation, youth access, removal of cost barriers, progression from first access into ensemble membership.
+Project must not start before a funding decision. Apply at least 16 weeks before project start.
 
-Must show majority of beneficiaries are from the community (not paid members). Outreach workshops or starter band are the cleanest fit — not the existing bands.
+**Eligible costs confirmed (verified 2026-05-09):** equipment purchases (instruments qualify), running costs, staff costs, one-off events, transport, volunteer expenses, utilities.
+
+**Ineligible (relevant to WFBA):** costs already paid; anything during the school day; curriculum-based activities; school building/equipment improvements; school staff training. This rules out framing the Year 4 in-school teaching as the project — but instruments for community loan, outreach workshops outside school hours, and starter band are all clean.
+
+Strong framing angles: instrument loan fund enabling access for beginners; outreach workshops as first-touch community music; removal of cost barriers; progression from first access into ensemble.
+
+Must show majority of beneficiaries are from the community (not paid existing members). Outreach, instruments, and starter band are the cleanest fits — not the existing bands.
 
 ## Eligibility evidence
 
-Confirmed no charity registration required. Source: [Who can apply page](https://www.tnlcommunityfund.org.uk/funding/funding-programmes/national-lottery-awards-for-all-england/who-can-apply/), checked 2026-04-18.
+Confirmed no charity registration required. Source: [Who can apply](https://www.tnlcommunityfund.org.uk/funding/funding-programmes/national-lottery-awards-for-all-england/who-can-apply/), checked 2026-04-18.
+
+Eligible/ineligible costs verified: [What you can spend the money on](https://www.tnlcommunityfund.org.uk/funding/funding-programmes/national-lottery-awards-for-all-england/what-you-can-spend-the-money-on), checked 2026-05-09.
 
 ## State history
 

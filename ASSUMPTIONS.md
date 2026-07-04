@@ -7,8 +7,8 @@ Until fields are filled in, the system must stay conservative and flag any assum
 
 ---
 
-last_reviewed: 2026-04-18  
-completed_by: —  
+last_reviewed: 2026-07-04  
+completed_by: andytwoods  
 
 ---
 
@@ -16,10 +16,11 @@ completed_by: —
 
 | Field | Value | Last confirmed |
 |---|---|---|
-| Charity application submitted | yes | unknown |
-| Expected registration timing | coming weeks | unknown — verify immediately |
-| Charity number | pending | — |
-| Legal form before registration | — | — |
+| Charity application submitted | yes — now REGISTERED | 2026-07-04 |
+| Expected registration timing | CONFIRMED registered | 2026-07-04 |
+| Charity number | **1218214** | 2026-07-04 (verified Companies House CE043760) |
+| Legal form | Charitable Incorporated Organisation (CIO) | 2026-07-04 (Companies House CE043760) |
+| Registration date | exact date to confirm from Charity Commission entry | — |
 | Date organisation established | — | — |
 
 ---
@@ -30,8 +31,8 @@ completed_by: —
 |---|---|---|
 | Current annual income band | — | — |
 | Unrestricted reserves position | — | — |
-| Bank account open and signatory-ready | — | — |
-| Gift Aid eligible once registered | — | — |
+| Bank account open and signatory-ready | yes — bank account open, dual signatories confirmed | 2026-07-04 (reconfirmed) |
+| Gift Aid eligible once registered | yes — now registered; HMRC Gift Aid registration still to be done (separate step) | 2026-07-04 |
 
 ---
 
@@ -85,5 +86,6 @@ completed_by: —
 
 Add any clarifications, partial answers, or flagged uncertainties here.
 
-- Charity registration: the original OVERVIEW.md was written at an unknown date. As of 2026-04-18, registration status is unconfirmed. Check and update immediately.
-- September 2026 target for Year 4 teaching is now approximately five months away. Funding pipeline for this programme is time-critical.
+- **Charity registration CONFIRMED 2026-07-04.** WFBA is a registered CIO, charity number 1218214 (Companies House CE043760), verified against Companies House on 2026-07-04. Registration-gated opportunities have been swept: ACE Project Grants and Garfield Weston moved to `apply_now`; BBC Children in Need and D'Oyly Carte blockers narrowed (registration no longer a blocker; other blockers remain). Still to confirm: exact registration date from the Charity Commission entry.
+- September 2026 target for Year 4 teaching is now two months away. Funding pipeline for this programme is time-critical.
+- As a new CIO, WFBA has no filed/audited accounts yet — funders requiring 1–2 years of accounts (RBWM, D'Oyly Carte, Esmée Fairbairn) remain out of reach until the first accounting period closes.

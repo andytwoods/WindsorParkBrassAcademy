@@ -5,8 +5,8 @@ type: opportunity
 funder: D'Oyly Carte Charitable Trust
 funder_type: charitable_trust
 state: parked
-state_rationale: Requires UK-registered charity status and audited annual accounts. WFBA has neither yet. June 2026 deadline unreachable; audited accounts won't be available until at least 2027. Strong fit for future cycles — revisit March 2027.
-last_updated: 2026-04-20
+state_rationale: Charity registration now confirmed (CIO 1218214, 2026-07-04), clearing the registration gate. One hard blocker remains — requires audited annual accounts, which a newly registered CIO will not have until its first accounting period closes (earliest 2027). Strong fit for future cycles — revisit March 2027 for the June 2027 deadline.
+last_updated: 2026-07-04
 last_verified_date: 2026-04-20
 provenance: https://doylycartecharitabletrust.org/apply-for-funding/
 
@@ -22,7 +22,7 @@ legal_form_required: UK-registered or regulated exempt charity with up-to-date a
 eligibility_summary: UK registered charities only. Grants £500–£8,000. Funds arts access and participation for those with least access; music and drama for young people on margins of society; arts-based community building. Annual accounts must be audited. Senior co-signature required on application.
 
 gate_legal_form: pass
-gate_charity_registration: fail
+gate_charity_registration: pass
 gate_geography: pass
 gate_beneficiary: pass
 gate_programme: pass
@@ -51,8 +51,8 @@ linked_programmes:
 
 next_action: Revisit March 2027. By then WFBA should have charity number and first year's accounts (audited or professionally prepared). Prepare a concise arts-access application framing outreach work for young people with least access to music.
 next_action_due: 2027-03-01
-blocker: (1) Registered charity status required — pending; (2) audited annual accounts required — not yet available for new charity; June 2026 deadline unreachable on both counts
-unblock_condition: Charity registration confirmed AND first audited accounts filed (earliest 2027)
+blocker: Audited annual accounts required — not yet available for a newly registered CIO (earliest 2027). Charity-registration blocker resolved 2026-07-04.
+unblock_condition: First audited/professionally-prepared accounts available (earliest 2027)
 review_date: 2027-03-01
 ---
 
@@ -77,3 +77,4 @@ UK registered charity required; audited accounts required. Grants £500–£8,00
 ## State history
 
 2026-04-20: set to parked — identified in April 2026 scan; two definitive blockers prevent 2026 application. Strong fit for 2027 cycle once charity registered and accounts filed.
+2026-07-04: charity registration confirmed (CIO 1218214). Registration blocker resolved and charity gate now passes. Remains parked on the audited-accounts blocker (unavailable until first accounting period closes). Review date unchanged at 2027-03-01.
