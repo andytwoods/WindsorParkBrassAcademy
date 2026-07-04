@@ -5,8 +5,8 @@ type: opportunity
 funder: National Lottery Community Fund
 funder_type: lottery
 state: apply_now
-state_rationale: Rolling fund, no registered charity required — constituted org with dual-signatory bank account is sufficient. Meets all Stage 1 gates.
-last_updated: 2026-05-09
+state_rationale: Rolling fund (£300–£20k), no registration barrier (and WFBA is now a registered charity anyway). Awards for All England explicitly funds community wellbeing and reducing social isolation — the strongest immediate fit for the Community Brass Open Doors project. Meets all Stage 1 gates.
+last_updated: 2026-07-04
 last_verified_date: 2026-05-09
 provenance: https://www.tnlcommunityfund.org.uk/funding/funding-programmes/national-lottery-awards-for-all-england/
 
@@ -44,12 +44,11 @@ score_confidence: 4
 score_rationale: Highest priority apply_now opportunity. Broadest accessible fund. No registration barrier. Good fit for outreach workshops, starter band setup, or instruments. Apply for £5k–£15k to fund a concrete programme strand.
 
 linked_programmes:
-  - outreach workshops
-  - starter band
+  - Community Brass Open Doors — widening access & wellbeing
   - instruments and cost-reduction support
 
-next_action: Draft application. Choose one programme strand. Options confirmed eligible: instrument loan fund for beginners/outreach (qualifies as equipment), outreach workshops run outside school hours, starter band setup. Cannot fund anything happening during the school day. Bank account and constitution both confirmed.
-next_action_due: 2026-05-16
+next_action: Draft a £5k–£15k application for the Community Brass Open Doors project — framed as reducing adult social isolation and widening access through inclusive music-making (bursary places, beginner/returner strand, loan instruments). Awards for All is the strongest immediate fit. Bank account (dual signatories) and constitution confirmed. Apply at least 16 weeks before any dated project start.
+next_action_due: 2026-08-15
 blocker: ""
 unblock_condition: ""
 review_date: null
@@ -69,6 +68,8 @@ Strong framing angles: instrument loan fund enabling access for beginners; outre
 
 Must show majority of beneficiaries are from the community (not paid existing members). Outreach, instruments, and starter band are the cleanest fits — not the existing bands.
 
+**Community-band pivot caveat (2026-07-04):** this "new community beneficiaries, not existing paying members" rule is the key design constraint for the Open Doors framing. The application must fund *new* access — bursary/free places, a beginner/returner strand, and loan instruments that bring in isolated/low-income/older/disabled adults — not subsidise the current subs-paying band. Frame outcomes as reduced isolation and widened access for people currently outside the band.
+
 ## Eligibility evidence
 
 Confirmed no charity registration required. Source: [Who can apply](https://www.tnlcommunityfund.org.uk/funding/funding-programmes/national-lottery-awards-for-all-england/who-can-apply/), checked 2026-04-18.
@@ -78,3 +79,4 @@ Eligible/ineligible costs verified: [What you can spend the money on](https://ww
 ## State history
 
 2026-04-18: set to apply_now — first scan, all gates pass, no registration barrier.
+2026-07-04: reframed for the community-band pivot — now the strongest immediate fit for the Community Brass Open Doors project (community wellbeing / reducing adult isolation). Remains apply_now; next action retargeted from youth outreach to the Open Doors access project.

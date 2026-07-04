@@ -7,6 +7,19 @@ status: active
 charity_registration_status: REGISTERED — CIO, charity no. 1218214 (Companies House CE043760). Confirmed 2026-07-04.
 ---
 
+## ⭐ CURRENT FOCUS OVERRIDE (set 2026-07-04)
+
+**The funding search is currently focused on Windsor Forest Community Brass — the adult community band (Thorpe, Runnymede).** Per the operator's decision on 2026-07-04, this is a full pivot: the community band is the priority object, and the youth / school / Year 4 pipeline is deprioritised (not deleted — existing youth opportunities stay on file but are not the current search target).
+
+- Fundable object: [`programmes/community-brass-open-doors.md`](programmes/community-brass-open-doors.md) — a widening-access & wellbeing project (bursary places, beginner/returner pathway, loan instruments).
+- Funder set shifts from youth/education to **community wellbeing**: social isolation & loneliness, mental health, older adults, returners, inclusion/disability, community cohesion.
+- Geography emphasis: **Thorpe / Runnymede Borough / Surrey**, wider North Surrey & Berkshire.
+- Caveat retained: an adult subs-funded band is harder to fund than youth access work; foreground *outcomes for adults facing barriers*, not band running costs.
+
+This override sits above the "Priority programme areas" section below (Year 4 etc.), which reflects the pre-pivot strategy and should be treated as deprioritised until the operator says otherwise.
+
+---
+
 ## Purpose
 
 This repository is a local-first, git-versioned funding strategy system for Windsor Forest Brass Academy (WFBA).
