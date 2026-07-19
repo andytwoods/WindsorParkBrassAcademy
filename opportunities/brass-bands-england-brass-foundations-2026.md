@@ -5,10 +5,10 @@ type: opportunity
 funder: Brass Bands England
 funder_type: other
 state: relationship_build
-state_rationale: The sector body for brass bands offers member support rather than an open grant round: a Project Fund (match-funding / crisis support), the Brass Foundations education programme (from September 2026), and a free member Fundraising Service (bid-writing help). WFBA appears already linked to BBE (BandSafe accreditation is a BBE scheme). Cultivate this to unlock free bid-writing support and match funding for other applications.
-last_updated: 2026-07-04
-last_verified_date: 2026-07-04
-provenance: https://www.bbe.org.uk/brass-foundations
+state_rationale: The sector body for brass bands offers member support rather than an open grant round: a Project Fund (match-funding / crisis support), the Brass Foundations education programme (from September 2026), and a free member Fundraising Service (bid-writing help). WFBA membership CONFIRMED 2026-07-19 — listed as an organisation member in BBE's public Find A Band directory (org ID 24921). Cultivate this to unlock free bid-writing support and match funding for other applications.
+last_updated: 2026-07-19
+last_verified_date: 2026-07-19
+provenance: https://www.bbe.org.uk/brass-foundations ; membership confirmed via BBE Find A Band directory — https://www.bbe.org.uk/OrganisationPublicProfile?ID=24921 (checked 2026-07-19)
 
 # Funding details
 amount_min: null
@@ -19,7 +19,7 @@ funding_cycle: irregular
 # Eligibility
 geography: England
 charity_registration_required: false
-legal_form_required: BBE membership (member bands); BandSafe/accreditation indicates existing linkage
+legal_form_required: BBE membership (member bands) — CONFIRMED member (org ID 24921)
 eligibility_summary: BBE supports member bands through: a Project Fund used as match funding against larger bids or crisis support; the Brass Foundations education programme (free-to-access support to enhance brass provision; 2026 phase commences September); and a Fundraising Service offering members strategy, training, bid-writing and evaluation support via a dedicated Fundraising Manager.
 
 # Qualification gates
@@ -52,7 +52,7 @@ linked_programmes:
   - Community Brass Open Doors — widening access & wellbeing
 
 # Action
-next_action: Confirm WFBA's BBE membership status (BandSafe accreditation suggests it is a member). If a member, engage the free BBE Fundraising Service for bid-writing support on the Open Doors applications, ask about Project Fund match funding, and register interest in Brass Foundations 2026 (commences September). This support de-risks every other application in the pipeline.
+next_action: Membership confirmed (2026-07-19). Engage the free BBE Fundraising Service for bid-writing support on the Open Doors applications, ask about Project Fund match funding, and register interest in Brass Foundations 2026 (commences September). This support de-risks every other application in the pipeline.
 next_action_due: 2026-07-31
 blocker: ""
 unblock_condition: ""
@@ -65,7 +65,7 @@ Brass Bands England (BBE) is the Arts Council England-funded membership and deve
 
 The **Project Fund** is designed as match funding against larger applications (or crisis support), so it pairs with — rather than replaces — bids to Awards for All, the Councillor Fund, etc.
 
-The band's public **BandSafe accreditation** is a BBE scheme, which strongly suggests WFBA (or the Community Brass band) is already a BBE member — confirm and exploit the member benefits immediately.
+WFBA's **BBE membership is confirmed** (verified 2026-07-19 in BBE's public Find A Band directory — organisation profile ID 24921, listing all four bands including Windsor Forest Community Band at Thorpe). Member benefits (Fundraising Service, Project Fund, Brass Foundations) are available now and should be exploited immediately.
 
 ## Eligibility evidence
 
@@ -78,3 +78,4 @@ None yet.
 ## State history
 
 2026-07-04: created and set to relationship_build — identified in the community-band-focused scan; engage BBE member support (free bid-writing, match funding) to strengthen all other applications.
+2026-07-19: BBE membership CONFIRMED — WFBA found in BBE's public Find A Band directory as an organisation member (profile ID 24921, Englefield Green / Surrey TW20 0EX, website wfba.org.uk, all four bands listed). State kept as relationship_build; the prior "confirm membership" gate is now closed and the next action shifts to actively engaging the Fundraising Service.

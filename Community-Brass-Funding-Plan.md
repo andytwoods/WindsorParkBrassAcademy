@@ -36,8 +36,8 @@ The message to funders is: *reducing loneliness and widening access to music for
 ## The plan — step by step
 
 ### Phase 1 — Foundations (July)
-- [ ] **Confirm we're a Brass Bands England member** (our BandSafe accreditation suggests we already are).
-- [ ] If so, **ask BBE's free Fundraising Service to help write our bids** — this makes every application below stronger.
+- [x] **Confirm we're a Brass Bands England member** — ✅ confirmed 19 Jul 2026 (we're listed as an organisation member in BBE's public band directory).
+- [ ] **Ask BBE's free Fundraising Service to help write our bids** — this makes every application below stronger. (Now unblocked — membership confirmed.)
 - [ ] Agree the **Open Doors budget** and a realistic new-member target (see below).
 - [ ] Nominate a **fundraising lead** on the committee to own this.
 
@@ -77,7 +77,7 @@ Instruments are a one-off; the rest tapers as new joiners become subs-paying mem
 
 **Facts we need to write the bids**
 - [ ] Current band membership numbers, and a realistic target for new joiners.
-- [ ] Confirmation we're a Brass Bands England member.
+- [x] Confirmation we're a Brass Bands England member. ✅ (confirmed 19 Jul 2026)
 - [ ] Which Surrey county council division(s) cover the Thorpe venue and where members live.
 
 ---

@@ -12,12 +12,14 @@
 
 | State | Count |
 |---|---|
-| `apply_now` | 4 |
+| `apply_now` | 5 |
 | `apply_when_registered` | 0 |
-| `monitor` | 8 |
-| `relationship_build` | 1 |
-| `parked` | 4 |
+| `monitor` | 10 |
+| `relationship_build` | 2 |
+| `parked` | 5 |
 | `rejected` | 2 |
+
+> **2026-07-19 update (equipment/"music & gear" funder scan):** BBE membership confirmed; 5 new records added — Schroder Charity (Runnymede) `apply_now`, Movement for Good + Co-op Local Community Fund `monitor`, Boltini Trust `relationship_build`, Masonic Charitable Foundation `parked` (first-accounts blocker).
 
 ---
 
@@ -29,6 +31,7 @@
 | [Awards for All England](opportunities/awards-for-all-2026.md) | £300–£20k | rolling | Draft £5k–£15k **Open Doors** bid (reducing adult isolation; fund *new* beneficiaries — bursaries, beginner strand, loan instruments) | 2026-08-15 |
 | [ACE Project Grants](opportunities/ace-project-grants-2026.md) _[youth — deprioritised]_ | £1k–£100k | rolling | Begin ACE organisational registration (separate, slow step) | 2026-07-18 |
 | [Garfield Weston Foundation](opportunities/garfield-weston-2026.md) _[youth — deprioritised]_ | £1k–£100k | rolling | Register on portal; first £5k–£15k proposal | 2026-08-01 |
+| [Schroder Charity (Runnymede)](opportunities/schroder-charity-runnymede-2026.md) | small (local pot) | rolling (Mar/Jun/Nov) | Submit a **capital** request (instruments/gear) framed on health & welfare / isolation — Englefield Green is in-area | 2026-08-31 |
 
 ---
 
@@ -54,7 +57,8 @@
 
 | Opportunity | Value | Next action |
 |---|---|---|
-| [Brass Bands England — Brass Foundations / Fundraising Service](opportunities/brass-bands-england-brass-foundations-2026.md) | Free member bid-writing + match funding | Confirm BBE membership (likely, via BandSafe); engage Fundraising Service |
+| [Brass Bands England — Brass Foundations / Fundraising Service](opportunities/brass-bands-england-brass-foundations-2026.md) | Free member bid-writing + match funding | ✅ Membership confirmed (2026-07-19) — engage the free Fundraising Service to write the Open Doors bids |
+| [Boltini Trust](opportunities/boltini-trust-2026.md) | variable (Surrey trust) | Email enquiry — confirm instruments/equipment are in scope before applying |
 
 ---
 
@@ -70,6 +74,8 @@
 | [Surrey Heath Local Project Fund](opportunities/surrey-heath-local-project-2026.md) | unknown | Check from 2026-06-25 (relevant if band delivery touches Surrey Heath) |
 | [Runnymede Community Grant](opportunities/runnymede-community-grant-2026.md) | up to £5k | Next round from ~2026-09-01 (local — relevant to the band) |
 | [Berkshire Community Foundation](opportunities/berkshire-community-foundation-2026.md) | up to £5k | Grassroots Grants from 2027-01-01 |
+| [Movement for Good (Benefact)](opportunities/movement-for-good-2026.md) | £1k–£5k | Nominate in £1k window 7–11 Sep 2026 (unrestricted → buys gear) |
+| [Co-op Local Community Fund](opportunities/coop-local-community-fund-2026.md) | ~£1k–£4k | Round closed Jun 2026; reopens ~mid-2027 (equipment eligible) |
 
 ---
 
@@ -81,6 +87,7 @@
 | [Runnymede CIL Fund](opportunities/runnymede-cil-fund-2026.md) | Ward allocation for Englefield Green (CIL Area 9) unknown | 2026-06-30 |
 | [D'Oyly Carte Charitable Trust](opportunities/doyly-carte-2026.md) _[youth — deprioritised]_ | Requires audited accounts (none until 2027); registration blocker resolved | 2027-03-01 |
 | [RBWM Grants to Voluntary Orgs](opportunities/rbwm-grants-voluntary-2026.md) | Requires two years of audited accounts — unavailable until 2028 | 2028-09-01 |
+| [Masonic Charitable Foundation](opportunities/masonic-charitable-foundation-2026.md) | Requires one year of examined/audited accounts — none until 2027 | 2027-06-01 |
 
 ---
 

@@ -77,6 +77,7 @@ completed_by: andytwoods
 |---|---|---|
 | Royal Holloway — nature of partnership (formal/informal) | — | — |
 | Royal Holloway — confirmed in-kind contributions | — | — |
+| Brass Bands England membership | CONFIRMED — organisation member (BBE org ID 24921) | 2026-07-19 (verified via BBE Find A Band directory) |
 | BandSafe accreditation — status | working towards (public website) | unknown |
 | DBS and safeguarding training — evidence available | — | — |
 
@@ -88,4 +89,5 @@ Add any clarifications, partial answers, or flagged uncertainties here.
 
 - **Charity registration CONFIRMED 2026-07-04.** WFBA is a registered CIO, charity number 1218214 (Companies House CE043760), verified against Companies House on 2026-07-04. Registration-gated opportunities have been swept: ACE Project Grants and Garfield Weston moved to `apply_now`; BBC Children in Need and D'Oyly Carte blockers narrowed (registration no longer a blocker; other blockers remain). Still to confirm: exact registration date from the Charity Commission entry.
 - September 2026 target for Year 4 teaching is now two months away. Funding pipeline for this programme is time-critical.
+- **Brass Bands England membership CONFIRMED 2026-07-19.** WFBA is listed as an organisation member in BBE's public Find A Band directory (profile ID 24921, https://www.bbe.org.uk/OrganisationPublicProfile?ID=24921). This unlocks member benefits — the free Fundraising Service (bid-writing), Project Fund match funding, and Brass Foundations — which should be used to strengthen the Open Doors applications.
 - As a new CIO, WFBA has no filed/audited accounts yet — funders requiring 1–2 years of accounts (RBWM, D'Oyly Carte, Esmée Fairbairn) remain out of reach until the first accounting period closes.
