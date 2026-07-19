@@ -12,14 +12,14 @@
 
 | State | Count |
 |---|---|
-| `apply_now` | 5 |
+| `apply_now` | 4 |
 | `apply_when_registered` | 0 |
 | `monitor` | 10 |
 | `relationship_build` | 2 |
-| `parked` | 5 |
+| `parked` | 6 |
 | `rejected` | 2 |
 
-> **2026-07-19 update (equipment/"music & gear" funder scan):** BBE membership confirmed; 5 new records added — Schroder Charity (Runnymede) `apply_now`, Movement for Good + Co-op Local Community Fund `monitor`, Boltini Trust `relationship_build`, Masonic Charitable Foundation `parked` (first-accounts blocker).
+> **2026-07-19 update (equipment/"music & gear" funder scan):** BBE membership confirmed; 5 new records added — Movement for Good + Co-op Local Community Fund `monitor`, Boltini Trust `relationship_build`, Masonic Charitable Foundation + Schroder Charity (Runnymede) `parked`. *(Schroder downgraded from apply_now same day — on reading its objects it is a health/welfare-only charity, not a music/equipment funder.)*
 
 ---
 
@@ -31,7 +31,6 @@
 | [Awards for All England](opportunities/awards-for-all-2026.md) | £300–£20k | rolling | Draft £5k–£15k **Open Doors** bid (reducing adult isolation; fund *new* beneficiaries — bursaries, beginner strand, loan instruments) | 2026-08-15 |
 | [ACE Project Grants](opportunities/ace-project-grants-2026.md) _[youth — deprioritised]_ | £1k–£100k | rolling | Begin ACE organisational registration (separate, slow step) | 2026-07-18 |
 | [Garfield Weston Foundation](opportunities/garfield-weston-2026.md) _[youth — deprioritised]_ | £1k–£100k | rolling | Register on portal; first £5k–£15k proposal | 2026-08-01 |
-| [Schroder Charity (Runnymede)](opportunities/schroder-charity-runnymede-2026.md) | small (local pot) | rolling (Mar/Jun/Nov) | Submit a **capital** request (instruments/gear) framed on health & welfare / isolation — Englefield Green is in-area | 2026-08-31 |
 
 ---
 
@@ -88,6 +87,7 @@
 | [D'Oyly Carte Charitable Trust](opportunities/doyly-carte-2026.md) _[youth — deprioritised]_ | Requires audited accounts (none until 2027); registration blocker resolved | 2027-03-01 |
 | [RBWM Grants to Voluntary Orgs](opportunities/rbwm-grants-voluntary-2026.md) | Requires two years of audited accounts — unavailable until 2028 | 2028-09-01 |
 | [Masonic Charitable Foundation](opportunities/masonic-charitable-foundation-2026.md) | Requires one year of examined/audited accounts — none until 2027 | 2027-06-01 |
+| [Schroder Charity (Runnymede)](opportunities/schroder-charity-runnymede-2026.md) | Health/welfare-only remit — band gear doesn't fit; needs a narrow health-intervention framing | 2026-11-01 |
 
 ---
 
