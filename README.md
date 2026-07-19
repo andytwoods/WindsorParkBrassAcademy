@@ -57,7 +57,7 @@
 
 | Opportunity | Value | Next action |
 |---|---|---|
-| [Brass Bands England — Brass Foundations / Fundraising Service](opportunities/brass-bands-england-brass-foundations-2026.md) | Free member bid-writing + match funding | ✅ Membership confirmed (2026-07-19) — engage the free Fundraising Service to write the Open Doors bids |
+| [Brass Bands England — Brass Foundations / Fundraising Service](opportunities/brass-bands-england-brass-foundations-2026.md) | Free consult + subsidised bid-writing (from £150+VAT) + match funding | ✅ Membership confirmed (2026-07-19) — book the FREE 1:1 consultation; bid-writing is paid but ~75% subsidised |
 | [Boltini Trust](opportunities/boltini-trust-2026.md) | variable (Surrey trust) | Email enquiry — confirm instruments/equipment are in scope before applying |
 
 ---

@@ -26,7 +26,7 @@ The message to funders is: *reducing loneliness and widening access to music for
 | **Your Councillor Community Fund** (Surrey CC) | £10,000 | Open now | Low | Each Surrey county councillor has £10k to give to local projects. Best quick local win. |
 | **National Lottery Awards for All** | £20,000 | Rolling | Low–Med | Explicitly funds reducing isolation & community wellbeing. Strongest fit for Open Doors. |
 | **Music for All** | £1,500 | Round opens Sept 2026 | Low | For instruments/equipment. Good for the loan-instrument pool. |
-| **Brass Bands England** | *free support + match funding* | Ongoing | Low | Not cash, but **free professional bid-writing help** for member bands — worth a lot. |
+| **Brass Bands England** | *subsidised support + match funding* | Ongoing | Low | Not cash. Free 1:1 consultation, webinars & resources; **professional bid-writing is paid but heavily subsidised for members** (from ~£150+VAT, ~75% off via The Backstage Trust). Can also be named as a bid partner. |
 | **National Lottery — Reaching Communities** | £20,000+ | Later (2027) | High | Great fit for isolation/wellbeing, but a bigger multi-year bid for once we have a track record. |
 
 **Realistic year-one target: around £15,000** by combining the Councillor Fund and Awards for All.
@@ -37,7 +37,7 @@ The message to funders is: *reducing loneliness and widening access to music for
 
 ### Phase 1 — Foundations (July)
 - [x] **Confirm we're a Brass Bands England member** — ✅ confirmed 19 Jul 2026 (we're listed as an organisation member in BBE's public band directory).
-- [ ] **Ask BBE's free Fundraising Service to help write our bids** — this makes every application below stronger. (Now unblocked — membership confirmed.)
+- [ ] **Book BBE's free 1:1 fundraising consultation** (membership confirmed) — then decide whether to pay for their subsidised bid-writing (from ~£150+VAT) on the Open Doors bid. Even the free consultation + resources strengthen our applications.
 - [ ] Agree the **Open Doors budget** and a realistic new-member target (see below).
 - [ ] Nominate a **fundraising lead** on the committee to own this.
 

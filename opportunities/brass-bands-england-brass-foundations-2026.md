@@ -5,7 +5,7 @@ type: opportunity
 funder: Brass Bands England
 funder_type: other
 state: relationship_build
-state_rationale: The sector body for brass bands offers member support rather than an open grant round: a Project Fund (match-funding / crisis support), the Brass Foundations education programme (from September 2026), and a free member Fundraising Service (bid-writing help). WFBA membership CONFIRMED 2026-07-19 — listed as an organisation member in BBE's public Find A Band directory (org ID 24921). Cultivate this to unlock free bid-writing support and match funding for other applications.
+state_rationale: The sector body for brass bands offers member support rather than an open grant round: a Project Fund (match-funding / crisis support), the Brass Foundations education programme (from September 2026), and a member Fundraising Service (free 1:1 consultation, webinars and resources; PAID but heavily subsidised bid-writing from ~£150+VAT). WFBA membership CONFIRMED 2026-07-19 — listed as an organisation member in BBE's public Find A Band directory (org ID 24921). Cultivate this to unlock free bid-writing support and match funding for other applications.
 last_updated: 2026-07-19
 last_verified_date: 2026-07-19
 provenance: https://www.bbe.org.uk/brass-foundations ; membership confirmed via BBE Find A Band directory — https://www.bbe.org.uk/OrganisationPublicProfile?ID=24921 (checked 2026-07-19)
@@ -52,7 +52,7 @@ linked_programmes:
   - Community Brass Open Doors — widening access & wellbeing
 
 # Action
-next_action: Membership confirmed (2026-07-19). Engage the free BBE Fundraising Service for bid-writing support on the Open Doors applications, ask about Project Fund match funding, and register interest in Brass Foundations 2026 (commences September). This support de-risks every other application in the pipeline.
+next_action: Membership confirmed (2026-07-19). Book the FREE 1:1 fundraising consultation with BBE's Fundraising Manager and use the free webinars/resources; then decide whether to buy the subsidised bid-writing (from £150+VAT) for the Open Doors instrument/music bid. Also ask about Project Fund match funding and register interest in Brass Foundations 2026 (commences September).
 next_action_due: 2026-07-31
 blocker: ""
 unblock_condition: ""
@@ -61,7 +61,9 @@ review_date: 2026-09-15
 
 ## Notes
 
-Brass Bands England (BBE) is the Arts Council England-funded membership and development body for brass bands. Its most valuable offer here is not cash but capability: a **Fundraising Service** giving members access to a Fundraising Manager for strategy, training, **bid-writing** and evaluation. For a small band pivoting into grant fundraising, this is a force-multiplier across the whole pipeline.
+Brass Bands England (BBE) is the Arts Council England-funded membership and development body for brass bands. Its most valuable offer here is not cash but capability: a **Fundraising Service** giving members access to a Fundraising Manager (Beth Lambert) for strategy, training, **bid-writing** and evaluation. For a small band pivoting into grant fundraising, this is a force-multiplier across the whole pipeline.
+
+**Cost (verified 2026-07-19, https://www.bbe.org.uk/fundraising-service):** the service is NOT wholly free. Free elements: webinars, the member resources library, and an initial 1:1 project consultation. Paid (member rate, ~75% subsidised via The Backstage Trust so members pay ~25% of full cost): application review & feedback from £60+VAT; full application/bid-writing from £150+VAT (varies by budget/funder); training courses £25–£150 pp; project evaluation ~5% of total project cost (build into the project budget). BBE can be named as a partner in the bid.
 
 The **Project Fund** is designed as match funding against larger applications (or crisis support), so it pairs with — rather than replaces — bids to Awards for All, the Councillor Fund, etc.
 
@@ -69,7 +71,7 @@ WFBA's **BBE membership is confirmed** (verified 2026-07-19 in BBE's public Find
 
 ## Eligibility evidence
 
-"BBE's Project Fund grants are designed to be used as match funding against larger funding applications, but also to support bands who apply for financial help in a time of crisis." "Brass Foundations is Brass Bands England's flagship education programme... free-to-access support." A member Fundraising Service provides bid-writing support. 2026 Brass Foundations phase commences September. Source: [BBE Brass Foundations](https://www.bbe.org.uk/brass-foundations), [BBE Fundraising Service](https://www.bbe.org.uk/fundraising-service), checked 2026-07-04.
+"BBE's Project Fund grants are designed to be used as match funding against larger funding applications, but also to support bands who apply for financial help in a time of crisis." "Brass Foundations is Brass Bands England's flagship education programme... free-to-access support." The member Fundraising Service provides a free 1:1 consultation, free webinars/resources, and paid-but-subsidised bid-writing (from £150+VAT; members pay ~25% of full cost via Backstage Trust support). 2026 Brass Foundations phase commences September. Sources: [BBE Brass Foundations](https://www.bbe.org.uk/brass-foundations) (checked 2026-07-04), [BBE Fundraising Service](https://www.bbe.org.uk/fundraising-service) (fees verified 2026-07-19).
 
 ## Application history
 
